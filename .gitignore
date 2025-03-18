@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# bookdown
+_book/
+
+# Andere bestanden
+materialen_oude_reader/
+.DS_Store
